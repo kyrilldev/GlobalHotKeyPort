@@ -1,0 +1,11 @@
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0-windows\GlobalHotKeyPort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0-windows\GlobalHotKeyPort.AssemblyInfoInputs.cache
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0-windows\GlobalHotKeyPort.AssemblyInfo.cs
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0-windows\GlobalHotKeyPort.csproj.CoreCompileInputs.cache
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\bin\Debug\net8.0-windows\GlobalHotKeyPort.deps.json
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\bin\Debug\net8.0-windows\GlobalHotKeyPort.dll
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\bin\Debug\net8.0-windows\GlobalHotKeyPort.pdb
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0-windows\GlobalHotKeyPort.dll
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0-windows\refint\GlobalHotKeyPort.dll
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0-windows\GlobalHotKeyPort.pdb
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0-windows\ref\GlobalHotKeyPort.dll

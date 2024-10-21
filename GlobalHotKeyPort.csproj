@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<!-- Targeting .NET 8 and Windows -->
+		<RootNamespace>GlobalHotKeyPort</RootNamespace>
+		<AssemblyName>GlobalHotKeyPort</AssemblyName>
+		<OutputType>Library</OutputType>
+		<Nullable>enable</Nullable>
+		<!-- Enable nullable reference types -->
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UseWPF>true</UseWPF>
+		<!-- Optional: Enable implicit using statements -->
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="System.Runtime.InteropServices" Version="4.3.0" />
+	  <PackageReference Include="System.Windows.Extensions" Version="8.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<!-- Modern .NET automatically includes common references like System, but you can add others if needed -->
+		<Reference Include="PresentationCore" />
+		<Reference Include="WindowsBase" />
+		<!-- If necessary for windowing APIs -->
+	</ItemGroup>
+
+</Project>

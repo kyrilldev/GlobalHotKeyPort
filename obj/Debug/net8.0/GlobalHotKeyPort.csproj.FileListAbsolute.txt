@@ -1,0 +1,4 @@
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0\GlobalHotKeyPort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0\GlobalHotKeyPort.AssemblyInfoInputs.cache
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0\GlobalHotKeyPort.AssemblyInfo.cs
+C:\Users\KyrillOosterveen\Documents\Github\GlobalHotKeyPort\obj\Debug\net8.0\GlobalHotKeyPort.csproj.CoreCompileInputs.cache
